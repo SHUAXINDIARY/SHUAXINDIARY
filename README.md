@@ -1,4 +1,4 @@
-### 👋Hi there 
+### 👋Hi there
 - 大四在读
 - 前端切图持续入门中
 
@@ -10,6 +10,10 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+
+### ✨Individual Project
+- [Vuex持久化插件](https://github.com/SHUAXINDIARY/cacheState)：缓存vuex数据
+- [demo-cli](https://github.com/SHUAXINDIARY/demo-cli)：基于gulp封装的开箱即用的ts、less练习开发环境
 
 <!-- ### 💬Open Source Work Stats -->
 
