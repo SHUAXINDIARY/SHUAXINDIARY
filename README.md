@@ -1,5 +1,3 @@
-### 👋Hi there
-![bg](https://img.shuaxinjs.cn//avatar.jpg)
 ### 🔭Languages & Tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -13,6 +11,10 @@
 - [色卡](https://github.com/SHUAXINDIARY/colorGuide)
 - [demo-cli](https://github.com/SHUAXINDIARY/demo-cli)：基于gulp封装的开箱即用的ts、less练习开发环境
 - [Vuex持久化插件](https://github.com/SHUAXINDIARY/cacheState)：缓存vuex数据
+
+
+![bg](https://img.shuaxinjs.cn//avatar.jpg)
+
 
 
 <!-- ### 💬Open Source Work Stats -->
