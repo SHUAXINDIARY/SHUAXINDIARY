@@ -1,5 +1,12 @@
 ### 👋Hi there
-![](https://img.shuaxinjs.cn//avatar.jpg)
+<!-- ![](https://img.shuaxinjs.cn//avatar.jpg) -->
+- 🌱 I’m currently learning **Linux/Docker**
+<!-- - 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...  -->
 ### 🔭Languages & Tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -9,15 +16,19 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 
-### ✨Individual Project
+### 💬Open Source Work Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=shuaxindiary&show_icons=true&count_private=true&theme=buefy" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=shuaxindiary&show_icons=true&locale=en&count_private=true&theme=buefy&layout=compact&" />
+
+<!-- ### ✨Individual Project
 - [色卡](https://github.com/SHUAXINDIARY/colorGuide)
 - [demo-cli](https://github.com/SHUAXINDIARY/demo-cli)：基于gulp封装的开箱即用的ts、less练习开发环境
-- [Vuex持久化插件](https://github.com/SHUAXINDIARY/cacheState)：缓存vuex数据
+- [Vuex持久化插件](https://github.com/SHUAXINDIARY/cacheState)：缓存vuex数据 -->
 
 
-<!-- ### 💬Open Source Work Stats -->
 
-<!-- ![](https://github-readme-stats.vercel.app/api?username=shuaxindiary&show_icons=true) -->
 
 <!-- **SHUAXINDIARY/SHUAXINDIARY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
