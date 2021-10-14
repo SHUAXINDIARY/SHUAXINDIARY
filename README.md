@@ -17,10 +17,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 
 ### 💬Open Source Work Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=shuaxindiary&show_icons=true&count_private=true&theme=buefy" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=shuaxindiary&show_icons=true&locale=en&count_private=true&theme=buefy&layout=compact&" />
+![](https://github-readme-stats.vercel.app/api?username=shuaxindiary&show_icons=true&count_private=true&theme=buefy)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=shuaxindiary&show_icons=true&theme=buefy&layout=compact)
 
 <!-- ### ✨Individual Project
 - [色卡](https://github.com/SHUAXINDIARY/colorGuide)
