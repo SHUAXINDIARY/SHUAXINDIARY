@@ -1,8 +1,17 @@
 ### 👋 Hi there
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=SHUAXINDIARY&theme=dracula" height="247" /> -->    
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHUAXINDIARY&layout=compact&theme=dracula" width="450"/>
-
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHUAXINDIARY&layout=compact&theme=dracula" width="450"/> -->
+<img
+      src="https://github-readme-stats-one-bice.vercel.app/api?username=SHUAXINDIARY&count_private=true&theme=dracula&show_icons=true&include_all_commits=true"
+      alt="SHUAXINDIARY's GitHub stats"
+      height="185px"
+    />
+    <img
+      src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=SHUAXINDIARY&layout=compact&langs_count=8&theme=dracula"
+      alt="Top Langs"
+      height="185px"
+    />
 ### I can write ...
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
